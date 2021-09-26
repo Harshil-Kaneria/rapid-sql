@@ -41,6 +41,6 @@ const rapid = require('rapid-sql')
   
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Harshil-Kaneria/rapid-sql/blob/main/LICENSE)
 
   
